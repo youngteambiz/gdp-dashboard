@@ -1,4 +1,4 @@
-streamlit
-openai
-pinecone
-python
+streamlit==1.37.1
+openai==1.42.0
+pinecone-client==2.2.1
+
